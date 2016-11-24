@@ -1,0 +1,7 @@
+"This is a get setup on linux"
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
